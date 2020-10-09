@@ -27,7 +27,7 @@
 		},
 		{
 			"name": "debian",
-			"description": "Debian Install mirrors",
+			"description": "Debian distribution site",
 			"domain_files": ["debian.txt"]
 		},
 		{
